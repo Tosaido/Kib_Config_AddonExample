@@ -1,0 +1,9 @@
+## Interface: 70000
+## Title: Kib: Config Addon Example
+## Author: Tosaido
+## Version: 1.0
+## Notes: Keep it Basic: Config Addon Example (An example of how Kib_Config works)
+## OptionalDeps: Kib_Config
+## DefaultState: disabled
+
+_WorkingExample.lua
